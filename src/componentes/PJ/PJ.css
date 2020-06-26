@@ -1,0 +1,14 @@
+.PJ{
+    width:10em;
+    padding:10px;
+    margin:5px;
+    border-radius:10px;
+    background: #40ff00;
+    color:rgb(2, 0, 0);
+    transition: all 1s; 
+}
+
+.PJ-danio{
+    background: #ff3c00;
+    color:white;
+}

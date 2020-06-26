@@ -1,0 +1,36 @@
+.mainC{
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #E6E600;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.55);
+    border-radius: 11px 11px 11px 11px;
+    background: linear-gradient(90deg, rgba(95,56,8,1) 0%, rgba(121,71,9,1) 62%, rgba(164,97,14,1) 100%, rgba(190,112,17,1) 100%);
+}
+
+.mainC2{
+    box-shadow: 0px 0px 54px -1px rgba(68,255,0,1);
+}
+
+.imgs{
+    width: 200px;
+    height: 250px;
+    margin: 0px auto;
+}
+
+span{
+    text-align: center;
+    color: rgb(245, 222, 179);
+    width: 90%;
+    display: block;
+}
+.figg{
+    width: 100%;
+    background-color: rgba(245, 222, 179,0.2) ;
+}
+
+
+.logo{
+    width: 35px;
+    height: 30px;
+}
